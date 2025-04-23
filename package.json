@@ -1,0 +1,12 @@
+{
+  "name": "projeto-logica-dio",
+  "version": "1.0.0",
+  "description": "Projeto de lógica de programação com JavaScript",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "author": "Sidney",
+  "license": "MIT",
+  "dependencies": {}
+}
